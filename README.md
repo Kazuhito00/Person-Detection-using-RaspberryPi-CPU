@@ -1,3 +1,5 @@
+[Japanese/[English](README_EN.md)]
+
 # Person-Detection-using-RaspberryPi-CPU
 Raspberry Pi 4のCPU動作を想定した人検出モデルとデモスクリプトです。<br>
 
